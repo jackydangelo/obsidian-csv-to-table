@@ -2,7 +2,8 @@ A simple Obsidian plugin that converts selected csv like test into Markdown tabl
 
 Inspired by 
 - kepano's [List to table](https://github.com/kepano/list-to-table)
-- ganesshkumar's [Markdown table editor](https://github.com/ganesshkumar/obsidian-table-editor) (with lots of features, resource-intensive, and no longer updated)
+- ganesshkumar's [Markdown table editor](https://github.com/ganesshkumar/obsidian-table-editor)
+- ganesshkumar's [Excel to Markdown table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table)
 
 
 ## Usage
