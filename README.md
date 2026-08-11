@@ -1,4 +1,4 @@
-A simple Obsidian plugin that converts selected csv like test into Markdown tables.
+A simple Obsidian plugin that converts selected csv like text into Markdown tables.
 
 ## Usage
 - Select text containing a text separated by ","
